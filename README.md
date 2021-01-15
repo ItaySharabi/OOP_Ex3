@@ -65,7 +65,7 @@ of nodes that are on the shortest path.
 <center> 
 <h3> Illustration of Dijkstra </h3>
 
-![alt text] (https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
 
 </center>
 
